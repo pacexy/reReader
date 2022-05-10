@@ -1,0 +1,2 @@
+# reReader
+Redesign EPUB reader.
